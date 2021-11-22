@@ -19,7 +19,7 @@ RSU 인프라에서 수집되는 CCTV 영상을 활용하여 주행협상 진입
   * 객체 검출 어노테이션(.txt) 수: 23,999개
 
 ##### 객체 검출 데이터셋 다운로드 방법
-1. 데이터셋 [다운로드 링크](http://gofile.me/5iKaJ/dcuurno8N) 클릭 후, 해당 폴더 다운로드
+1. 데이터셋 [다운로드 링크](http://gofile.me/5iKaJ/j6eBc30QI) 클릭 후, 해당 폴더 다운로드
 2. jpg-txt로 쌍을 이루며 구성되어 있음
 3. [Yolo format](https://arxiv.org/pdf/1506.02640.pdf)으로 어노테이션 되어 있음
 
